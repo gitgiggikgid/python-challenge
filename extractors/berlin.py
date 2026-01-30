@@ -48,4 +48,5 @@ def extract_berlin_jobs(keyword):
                 continue
         return results
     except:
+
         return []
